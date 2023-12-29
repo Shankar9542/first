@@ -1,6 +1,7 @@
 hello boys
 thi message gd for u
 so listen care fully.
+<<<<<<< HEAD
 
 
 
@@ -8,3 +9,5 @@ hello
 ggg
 kkk
 hkHKK
+=======
+>>>>>>> parent of 85d270f (messagr)
